@@ -1,0 +1,15 @@
+{
+  "originHash" : "5e5ab9283f09bd469471c2d5c528ab9d0826213c03734d215f076b44d9a65466",
+  "pins" : [
+    {
+      "identity" : "roam-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/roam-ai/roam-ios",
+      "state" : {
+        "revision" : "811e3d896932b71c7bd611b0b4662d8967efab24",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
